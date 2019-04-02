@@ -19,3 +19,4 @@ steps:
   displayName: 'Run a multi-line script'
 
 - script: git pull origin master
+- script: cd c:/agent
